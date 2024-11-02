@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://efuhioba.github.io/AbO/sitemap_index.txt
+Sitemap: https://efuhioba.github.io/UsD/sitemap_index.txt
+Sitemap: https://efuhioba.github.io/iUq/sitemap_index.txt
+Sitemap: https://efuhioba.github.io/pNu/sitemap_index.txt
